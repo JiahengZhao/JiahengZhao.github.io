@@ -12,16 +12,18 @@ I'm a Ph.D. engineer deeply immersed in the field of autonomous driving and robo
 
 Experience
 ======
-I am currently a Senior Engineer at **Conigital Group** in Sydney, Australia, where I have dedicated 2 years to advancing technologies in SLAM, perception, and sensor fusion. In this role, I've developed Lidar/Camera-based mapping and localisation algorithms, tackled challenges in sensors data fusion, performed extrinsic calibration, and honed my skills in on-road object detection and segmentation.
+I am currently a Senior Engineer at [Conigital Group](https://conigital.org/) in Sydney, Australia, where I have dedicated 2 years to advancing technologies in SLAM, perception, and sensor fusion. In this role, I've developed Lidar/Camera-based mapping and localisation algorithms, tackled challenges in sensors data fusion, performed extrinsic calibration, and honed my skills in on-road object detection and segmentation.
 
-Previously, I served as a Senior Localization and Navigation Algorithm Engineer at UBTECH Robotics in Shenzhen, China. My work centered on the development of cutting-edge SLAM, localization, and mapping algorithms. Noteworthy projects included crafting localization algorithms for quadruped robots, creating SLAM solutions for unmanned inspection vehicles within power stations, and pioneering autonomous exploration, mapping, and navigation algorithms for ultraviolet disinfection robots.
+Previously, I served as a Senior Localization and Navigation Algorithm Engineer at [UBTECH Research](https://research.ubtrobot.com/home) in Shenzhen, China. My work centered on the development of cutting-edge SLAM, localization, and mapping algorithms. Noteworthy projects included crafting localization algorithms for quadruped robots, creating SLAM solutions for unmanned inspection vehicles within power stations, and pioneering autonomous exploration, mapping, and navigation algorithms for ultraviolet disinfection robots.
+
+My academic journey is marked by two PhD pursuits. I conducted research at the Robotics Institute, University of Technology Sydney (UTS: RI), supervised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang) and [Dr. Liang Zhao](https://profiles.uts.edu.au/Liang.Zhao). My major area of focus was indoor/outdoor SLAM for mobile vehicles. Additionally, I pursued a PhD at the Beijing Institute of Technology, under the guidance of [Prof. Baoling Han](https://me.bit.edu.cn/szdw/jsml/jdkxjcb/jxsjjys/bssds18/b30885.htm), where I delved into SLAM techniques for multi-terrain wheeled/footed robots. These academic experiences laid the groundwork for my contributions to the field of robotics.
 
 Education
 ======
 
-* 2018-2021, Doctor of Philosophy, University of Technology Sydney, Australia
-* 2014-2020, Doctor of Philosophy, Beijing Institute of Technology, China
-* 2010-2014, Bachelor, Beijing Jiaotong University
+* 2018 - 2021, *Doctor of Philosophy*, University of Technology Sydney, Australia
+* 2014 - 2020, *Doctor of Philosophy*, Beijing Institute of Technology, China
+* 2010 - 2014, *Bachelor* in Mechanical Engineering, Beijing Jiaotong University, China
 
 Publication & Patern
 ======
