@@ -14,7 +14,7 @@ Experience
 ======
 I am currently a Senior Engineer at [<font color="black">Conigital Group</font>](https://conigital.org/) in Sydney, Australia, where I have dedicated 2 years to advancing technologies in SLAM, perception, and sensor fusion. In this role, I've developed Lidar/Camera-based mapping and localisation algorithms, tackled challenges in sensors data fusion, performed extrinsic calibration, and honed my skills in on-road object detection and segmentation.
 
-Previously, I served as a Senior Localization and Navigation Algorithm Engineer at [<font color="black">UBTECH Research</font>](https://research.ubtrobot.com/home) in Shenzhen, China. My work centered on the development of cutting-edge SLAM, localization, and mapping algorithms. Noteworthy projects included crafting localization algorithms for quadruped robots, creating SLAM solutions for unmanned inspection vehicles within power stations, and pioneering autonomous exploration, mapping, and navigation algorithms for ultraviolet disinfection robots.
+Previously, I served as a Senior Localization and Navigation Algorithm Engineer at [<font color="black">UBTECH Research</font>](https://research.ubtrobot.com/home) in Shenzhen, China. My work centered on the development of cutting-edge SLAM, localization, and mapping algorithms. Noteworthy projects included crafting localization algorithms for quadruped robots, creating SLAM solutions for unmanned inspection vehicles within power stations, and pioneering autonomous exploration, mapping, and navigation algorithms for ultraviolet disinfection robots. **3 patents** on robot localisation method were issued.
 
 My academic journey is marked by two PhD pursuits. I conducted research at the Robotics Institute, University of Technology Sydney (UTS: RI), supervised by [<font color="black">Prof. Shoudong Huang</font>](https://profiles.uts.edu.au/Shoudong.Huang) and [<font color="black">Dr. Liang Zhao</font>](https://profiles.uts.edu.au/Liang.Zhao). My major area of focus was indoor/outdoor SLAM for mobile vehicles. Additionally, I pursued a PhD at the Beijing Institute of Technology, under the guidance of [<font color="black">Prof. Baoling Han</font>](https://me.bit.edu.cn/szdw/jsml/jdkxjcb/jxsjjys/bssds18/b30885.htm), where I delved into SLAM techniques for multi-terrain wheeled/footed robots. These academic experiences laid the groundwork for my contributions to the field of robotics.
 
@@ -39,7 +39,9 @@ Publication & Patern
 * [<font color="black">Stability criterion for dynamic gaits of quadruped robot</font>](https://www.mdpi.com/2076-3417/8/12/2381), Applied Sciences, 2018
 
 **Paterns**
-* A Robot Localisation Method, Apparatus, Robot, and Readable Storage Medium, **CN113137967B**, May 26, 2023
+* Localisation Method, Localisation Apparatus, and Robot, **CN112950708B**, Dec 15, 2023
+* Localisation Method, Robot, and Storage Medium, **CN113538677B**, Dec 15, 2023
+* Robot Localisation Method, Localisation Apparatus, Robot, and Computer Readable Storage Medium, **CN113137967B**, May 26, 2023
 * Five-finger Smart Finger Joint Articulation Module Based on Worm Gear Mechanism, **CN105881536B**, Mar 12, 2019
 * Five-finger Dexterous Hand Side-swing and Palm-aligning Mechanism Based on Screw Connecting Rod Mechanism, **CN105881566B**, Nov 20, 2018
 <!-- Create content & metadata
