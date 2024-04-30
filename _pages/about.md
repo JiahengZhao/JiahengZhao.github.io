@@ -12,7 +12,7 @@ I'm a Ph.D. engineer deeply immersed in the field of autonomous driving and robo
 
 Experience
 ======
-I am currently a Senior Engineer at [<font color="black">Conigital Group</font>](https://conigital.org/) in Sydney, Australia, where I have dedicated 2 years to advancing technologies in SLAM, perception, and sensor fusion. In this role, I've developed Lidar/Camera-based mapping and localisation algorithms, tackled challenges in sensors data fusion, performed extrinsic calibration, and honed my skills in on-road object detection and segmentation.
+I am a Senior Engineer at [<font color="black">Conigital Group</font>](https://conigital.org/) in Sydney, Australia, where I have dedicated 3 years to advancing technologies in SLAM, perception, and sensor fusion. In this role, I've developed Lidar/Camera-based mapping and localisation algorithms, tackled challenges in sensors data fusion, performed extrinsic calibration, and honed my skills in on-road object detection and segmentation.
 
 Previously, I served as a Senior Localization and Navigation Algorithm Engineer at [<font color="black">UBTECH Research</font>](https://research.ubtrobot.com/home) in Shenzhen, China. My work centered on the development of cutting-edge SLAM, localization, and mapping algorithms. Noteworthy projects included crafting localization algorithms for quadruped robots, creating SLAM solutions for unmanned inspection vehicles within power stations, and pioneering autonomous exploration, mapping, and navigation algorithms for ultraviolet disinfection robots. **3 patents** on robot localisation method were issued.
 
