@@ -22,7 +22,13 @@ It can also be controlled by remote controller, besides operating on the mower.
 
 **Please don't hesitate to get in tough if you're interested in our autonomous mower!**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qK5YIkPKRVg?si=lSeJTYS8dvdADQ4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IaY-5DPDjrw?si=pFulbR8Vcd0nKpYL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQPr39J1VI?si=L6wRMbKIfWNmXtXD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
